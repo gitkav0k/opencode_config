@@ -30,6 +30,18 @@
         "qwen3:32b": {
           "tools": true,
           "reasoning": true
+        },
+        "llama3.1:70b": {
+          "tools": true,
+          "reasoning": false
+        },
+        "qwen3-coder:30b": {
+          "tools": true,
+          "reasoning": false
+        },
+        "gemma3:27b": {
+          "tools": true,
+          "reasoning": false
         }
       }
     }

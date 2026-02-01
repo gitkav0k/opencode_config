@@ -1,6 +1,6 @@
 ---
 description: Reviews technical writing for IT professionals focusing on clarity, conciseness, and best practices
-mode: subagent
+mode: primary
 temperature: 0.3
 tools:
   write: false
